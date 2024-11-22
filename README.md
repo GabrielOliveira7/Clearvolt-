@@ -141,6 +141,9 @@ Jato de ar ativado.
 Dados enviados ao ThingSpeak!
 ```
 
+![image](https://github.com/user-attachments/assets/f6be6778-3874-43b9-b0be-10ad0ee5c410)
+
+
 ---
 
 ## Integrantes da Equipe ClearVolt
