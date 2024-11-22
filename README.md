@@ -59,6 +59,11 @@ O projeto foi desenvolvido para ser executado no simulador **Wokwi**,
 
 ---
 
+![image](https://github.com/user-attachments/assets/840b25b6-1582-46da-84b6-b7cbaef7c778)
+
+
+---
+
 ## Instruções para Reproduzir e Testar
 
 ### 1. **Configuração do Ambiente**
