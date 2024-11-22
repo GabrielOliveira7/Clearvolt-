@@ -156,7 +156,7 @@ Dados enviados ao ThingSpeak!
 - Macirander Souza De Miranda Filho - RM: 551416
 - Maria Luiza de Oliveira Lobo      - RM: 552169
 - Matheus Felipe Camarinha Duarte   - RM: 552295
-- Munir Jamil Mahmoud Ayoub         - RM: 555893
+- Munir Jamil Mahmoud Ayoub         - RM: 550893
 
 
 ## Licença
