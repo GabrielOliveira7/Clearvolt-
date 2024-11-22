@@ -105,6 +105,9 @@ https://www.youtube.com/watch?v=KvPO4d4RcMM
 3. **Dados no ThingSpeak:**
    - Confirme no **Serial Monitor** que os dados estão sendo enviados.
    - Verifique os gráficos no painel do ThingSpeak.
+   - Os dados devem aparecer como no exemplo abaixo
+![image](https://github.com/user-attachments/assets/f704820a-0a85-436b-b58d-fd54372ca3e3)
+
 
 ---
 
