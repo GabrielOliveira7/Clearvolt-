@@ -17,6 +17,7 @@ O projeto foi desenvolvido para ser executado no simulador **Wokwi**,
 ---
 
 ## Link para o vídeo no youtube: 
+https://www.youtube.com/watch?v=KvPO4d4RcMM
 
 ---
 
