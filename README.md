@@ -138,11 +138,11 @@ Dados enviados ao ThingSpeak!
 
 ## Integrantes da Equipe ClearVolt
 
-Gabriel Eduardo De Paiva Oliveira - RM: 98843
-Macirander Souza De Miranda Filho - RM: 551416
-Maria Luiza de Oliveira Lobo      - RM: 552169
-Matheus Felipe Camarinha Duarte   - RM: 552295
-Munir Jamil Mahmoud Ayoub         - RM: 555893
+- Gabriel Eduardo De Paiva Oliveira - RM: 98843
+- Macirander Souza De Miranda Filho - RM: 551416
+- Maria Luiza de Oliveira Lobo      - RM: 552169
+- Matheus Felipe Camarinha Duarte   - RM: 552295
+- Munir Jamil Mahmoud Ayoub         - RM: 555893
 
 
 ## Licença
