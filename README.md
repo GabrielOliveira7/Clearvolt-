@@ -59,6 +59,8 @@ O projeto foi desenvolvido para ser executado no simulador **Wokwi**,
 
 ---
 
+## É esperado um diagrama como este:
+
 ![image](https://github.com/user-attachments/assets/840b25b6-1582-46da-84b6-b7cbaef7c778)
 
 
